@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oeegi\\OneDrive\\Masaüstü\\asp.net\\basics\\basics.csproj": {}
+    "C:\\Users\\cod\\Documents\\GitHub\\CourseApp\\basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oeegi\\OneDrive\\Masaüstü\\asp.net\\basics\\basics.csproj": {
+    "C:\\Users\\cod\\Documents\\GitHub\\CourseApp\\basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oeegi\\OneDrive\\Masaüstü\\asp.net\\basics\\basics.csproj",
+        "projectUniqueName": "C:\\Users\\cod\\Documents\\GitHub\\CourseApp\\basics.csproj",
         "projectName": "basics",
-        "projectPath": "C:\\Users\\oeegi\\OneDrive\\Masaüstü\\asp.net\\basics\\basics.csproj",
-        "packagesPath": "C:\\Users\\oeegi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oeegi\\OneDrive\\Masaüstü\\asp.net\\basics\\obj\\",
+        "projectPath": "C:\\Users\\cod\\Documents\\GitHub\\CourseApp\\basics.csproj",
+        "packagesPath": "C:\\Users\\cod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cod\\Documents\\GitHub\\CourseApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oeegi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cod\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,6 +48,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -56,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.114\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
