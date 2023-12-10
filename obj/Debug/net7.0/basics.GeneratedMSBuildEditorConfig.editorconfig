@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cod\Documents\GitHub\CourseApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/cod/Documents/GitHub/CourseApp/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cod/Documents/GitHub/CourseApp/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/cod/Documents/GitHub/CourseApp/Views/Course/_Course.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXF9Db3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cod/Documents/GitHub/CourseApp/Views/Course/_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXF9Ib21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cod/Documents/GitHub/CourseApp/Views/Home/Contact.cshtml]
@@ -44,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/cod/Documents/GitHub/CourseApp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cod/Documents/GitHub/CourseApp/Views/Shared/_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cod/Documents/GitHub/CourseApp/Views/Shared/_Navbar.cshtml]
